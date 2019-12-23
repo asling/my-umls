@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-23T11:20:58.438Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="AjzdMGVukyKoU943zEQy" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-23T11:24:14.192Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="JevujLPTOVPFkfrgTnJv" version="12.4.3" type="github" pages="1">
   <diagram id="JnVbTenwOQn0ZAlbqsZP" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,16 @@
         <mxCell id="ebE19Lw5AKah-H99NNtD-25" value="执行‘子控件初始化’事件回调" style="rounded=0;whiteSpace=wrap;html=1;glass=0;gradientColor=none;" vertex="1" parent="ebE19Lw5AKah-H99NNtD-2">
           <mxGeometry x="30" y="620" width="120" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="ebE19Lw5AKah-H99NNtD-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ebE19Lw5AKah-H99NNtD-2" source="ebE19Lw5AKah-H99NNtD-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="900" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ebE19Lw5AKah-H99NNtD-30" value="构造子控件所需数据" style="rounded=0;whiteSpace=wrap;html=1;glass=0;gradientColor=none;" vertex="1" parent="ebE19Lw5AKah-H99NNtD-2">
           <mxGeometry x="30" y="760" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ebE19Lw5AKah-H99NNtD-58" value="完成" style="rounded=1;whiteSpace=wrap;html=1;glass=0;gradientColor=none;" vertex="1" parent="ebE19Lw5AKah-H99NNtD-2">
+          <mxGeometry x="30" y="900" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ebE19Lw5AKah-H99NNtD-3" value="下拉框" style="swimlane;html=1;startSize=20;" vertex="1" parent="ebE19Lw5AKah-H99NNtD-1">
           <mxGeometry x="210" width="170" height="1030" as="geometry"/>
@@ -68,8 +76,16 @@
         <mxCell id="ebE19Lw5AKah-H99NNtD-24" value="广播‘初始化完毕’事件" style="rounded=0;whiteSpace=wrap;html=1;glass=0;gradientColor=none;" vertex="1" parent="ebE19Lw5AKah-H99NNtD-3">
           <mxGeometry x="25" y="620" width="120" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="ebE19Lw5AKah-H99NNtD-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ebE19Lw5AKah-H99NNtD-3" source="ebE19Lw5AKah-H99NNtD-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="900" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ebE19Lw5AKah-H99NNtD-32" value="构造子控件所需数据" style="rounded=0;whiteSpace=wrap;html=1;glass=0;gradientColor=none;" vertex="1" parent="ebE19Lw5AKah-H99NNtD-3">
           <mxGeometry x="25" y="760" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ebE19Lw5AKah-H99NNtD-54" value="完成" style="rounded=1;whiteSpace=wrap;html=1;glass=0;gradientColor=none;" vertex="1" parent="ebE19Lw5AKah-H99NNtD-3">
+          <mxGeometry x="25" y="900" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ebE19Lw5AKah-H99NNtD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ebE19Lw5AKah-H99NNtD-1" source="ebE19Lw5AKah-H99NNtD-24" target="ebE19Lw5AKah-H99NNtD-25">
           <mxGeometry relative="1" as="geometry"/>
