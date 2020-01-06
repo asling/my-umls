@@ -1,13 +1,13 @@
-<mxfile host="www.draw.io" modified="2020-01-06T05:57:48.335Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="dc79IkXTyTopzuKGu_4w" version="12.4.8" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-06T06:52:42.846Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="XuLgDOgz-j2KWumPELJw" version="12.4.8" type="github" pages="2">
   <diagram id="b3h_3Atux4s68zcuTGjY" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="v2VOmOzlyyHsazO3PfmF-1" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="310" as="sourcePoint"/>
-            <mxPoint x="730" y="310" as="targetPoint"/>
+            <mxPoint x="70" y="320" as="sourcePoint"/>
+            <mxPoint x="730" y="320" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="v2VOmOzlyyHsazO3PfmF-2" value="接入层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -15,30 +15,30 @@
         </mxCell>
         <mxCell id="v2VOmOzlyyHsazO3PfmF-3" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="72" y="420" as="sourcePoint"/>
-            <mxPoint x="732" y="420" as="targetPoint"/>
+            <mxPoint x="70" y="480" as="sourcePoint"/>
+            <mxPoint x="730" y="480" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v2VOmOzlyyHsazO3PfmF-4" value="控件层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="390" width="40" height="20" as="geometry"/>
+        <mxCell id="v2VOmOzlyyHsazO3PfmF-4" value="控件组件层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="370" width="65" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="v2VOmOzlyyHsazO3PfmF-5" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="550" as="sourcePoint"/>
-            <mxPoint x="730" y="550" as="targetPoint"/>
+            <mxPoint x="70" y="640" as="sourcePoint"/>
+            <mxPoint x="730" y="640" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="v2VOmOzlyyHsazO3PfmF-6" value="公共模块层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="520" width="70" height="20" as="geometry"/>
+          <mxGeometry x="70" y="540" width="70" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="v2VOmOzlyyHsazO3PfmF-7" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="690" as="sourcePoint"/>
-            <mxPoint x="730" y="690" as="targetPoint"/>
+            <mxPoint x="70" y="730" as="sourcePoint"/>
+            <mxPoint x="730" y="730" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="v2VOmOzlyyHsazO3PfmF-8" value="基础服务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="660" width="80" height="20" as="geometry"/>
+          <mxGeometry x="75" y="700" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="v2VOmOzlyyHsazO3PfmF-10" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,8 +46,8 @@
             <mxPoint x="730" y="80" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v2VOmOzlyyHsazO3PfmF-12" value="页面层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="280" width="40" height="20" as="geometry"/>
+        <mxCell id="v2VOmOzlyyHsazO3PfmF-12" value="页面组件层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="290" width="65" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="v2VOmOzlyyHsazO3PfmF-14" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="v2VOmOzlyyHsazO3PfmF-19" value="手机页面壳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="10" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-12" value="自定义工具首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="10" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="v2VOmOzlyyHsazO3PfmF-20" value="PC流程壳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="90" width="120" height="60" as="geometry"/>
@@ -102,6 +105,72 @@
         </mxCell>
         <mxCell id="v2VOmOzlyyHsazO3PfmF-35" value="人员检测上墙定制页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="170" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-1" value="表单组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-15" value="视频控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-28" value="IP控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-33" value="偏好设置模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-45" value="导出模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="570" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-47" value="打印模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-30" value="标签控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-17" value="音频控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-19" value="按钮控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-20" value="多选控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-21" value="时间控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-22" value="动态表格控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-23" value="文件上传控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-24" value="统计图表控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-25" value="图片上传控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-26" value="静态图片控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-35" value="通用基础控件模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-36" value="高级查询模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-37" value="普通查询模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-40" value="基础弹窗模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-42" value="分页模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gFqdmin1735l4PtACyd-43" value="导入模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="490" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
