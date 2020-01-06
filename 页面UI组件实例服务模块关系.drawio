@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-06T12:55:58.448Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="dQ5BIDx1614newt4x6n3" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-06T12:57:21.385Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="TUkh_KNYGoMZ08bI85n3" version="12.4.8" type="github">
   <diagram id="0pdj4ucrVx3CdcIXu_r7" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0"/>
         <mxCell id="2d3plyyfJaohmwcUXWga-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="150" width="1360" height="850" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-61" value="控件组件层" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="340" width="630" height="530" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-2" value="四代客户端" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="550" height="50" as="geometry"/>
@@ -135,6 +138,9 @@
         <mxCell id="2d3plyyfJaohmwcUXWga-56" value="页面后台服务" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="620" width="110" height="380" as="geometry"/>
         </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-62" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2d3plyyfJaohmwcUXWga-57" target="2d3plyyfJaohmwcUXWga-60">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-57" value="指令服务" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="670" width="110" height="50" as="geometry"/>
         </mxCell>
@@ -147,11 +153,11 @@
         <mxCell id="2d3plyyfJaohmwcUXWga-59" value="1" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="2d3plyyfJaohmwcUXWga-58">
           <mxGeometry x="-1" relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-60" value="页面组件层" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="670" width="220" height="50" as="geometry"/>
+        <mxCell id="2d3plyyfJaohmwcUXWga-63" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2d3plyyfJaohmwcUXWga-60" target="2d3plyyfJaohmwcUXWga-61">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-61" value="控件组件层" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="524" y="670" width="236" height="50" as="geometry"/>
+        <mxCell id="2d3plyyfJaohmwcUXWga-60" value="页面组件层" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="670" width="180" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
