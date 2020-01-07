@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-07T09:42:48.534Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="yHCPBe6ch3xWAnb8PbPj" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-07T09:46:54.034Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="SVrwoyAbYNKulLYGdaLM" version="12.4.8" type="github">
   <diagram id="0pdj4ucrVx3CdcIXu_r7" name="Page-1">
-    <mxGraphModel dx="1345" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -11,7 +11,7 @@
           <mxGeometry x="1770" y="338" width="180" height="650" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-110" value="&lt;div style=&quot;&quot;&gt;基础服务层&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="340" width="340" height="1100" as="geometry"/>
+          <mxGeometry x="-140" y="340" width="340" height="1120" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-64" value="API网关" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="380" width="90" height="1010" as="geometry"/>
@@ -724,6 +724,33 @@
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-271" value="手机时间控件" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="710" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-272" value="打印模块" style="html=1;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="265" y="860" width="125" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-273" value="统计表格弹窗模块" style="html=1;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="265" y="930" width="125" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-275" value="&lt;span style=&quot;white-space: normal&quot;&gt;权限配置定制页面&lt;/span&gt;" style="html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="540" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-276" value="&lt;span style=&quot;white-space: normal&quot;&gt;权限接入服务&lt;/span&gt;" style="html=1;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1400" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-277" value="&lt;span style=&quot;white-space: normal&quot;&gt;交接班定制页面&lt;/span&gt;" style="html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="615" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-278" value="&lt;span style=&quot;white-space: normal&quot;&gt;统计图表定制页面&lt;/span&gt;" style="html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="690" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-279" value="&lt;span style=&quot;white-space: normal&quot;&gt;建筑物分组定制页面&lt;/span&gt;" style="html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="760" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-280" value="&lt;span style=&quot;white-space: normal&quot;&gt;人员检测上墙页面&lt;/span&gt;" style="html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="830" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-281" value="&lt;span style=&quot;white-space: normal&quot;&gt;手机流程定制页面&lt;/span&gt;" style="html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="900" width="130" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
