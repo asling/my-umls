@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-07T09:26:52.050Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="EGwu5meUJBxTtNrodVtc" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-07T09:42:48.534Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="yHCPBe6ch3xWAnb8PbPj" version="12.4.8" type="github">
   <diagram id="0pdj4ucrVx3CdcIXu_r7" name="Page-1">
-    <mxGraphModel dx="3671" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -679,6 +679,51 @@
             </Array>
             <mxPoint x="-14" y="14" as="offset"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-255" value="时间控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="369" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-256" value="文件上传控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="428" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-257" value="统计表格控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="498" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-258" value="图片上传控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="570" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-259" value="静态图片控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="640" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-260" value="标签控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="710" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-261" value="块布局控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="780" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-262" value="格布局控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="850" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-263" value="弹窗表单控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="369" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-264" value="标签页控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="430" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-265" value="表格布局控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="499" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-266" value="超链接控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="570" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-267" value="多选下拉控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="640" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-270" value="分页模块" style="html=1;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="265" y="790" width="125" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-271" value="手机时间控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="710" width="130" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
