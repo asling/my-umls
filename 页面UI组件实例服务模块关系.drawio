@@ -1,28 +1,28 @@
-<mxfile host="www.draw.io" modified="2020-01-07T08:37:03.157Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Jxuw0-XoeyFYBYAW1w0R" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-07T08:39:21.547Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="BBJxZat1lO6ZAWSqDrPw" version="12.4.8" type="github">
   <diagram id="0pdj4ucrVx3CdcIXu_r7" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="2d3plyyfJaohmwcUXWga-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-1" value="页面UI组件实例服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-210" y="230" width="2270" height="1240" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-106" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;接入层&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-106" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;接入层&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;align=center;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1770" y="338" width="180" height="650" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-110" value="&lt;div style=&quot;&quot;&gt;基础服务层&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-110" value="&lt;div style=&quot;&quot;&gt;基础服务层&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-140" y="340" width="340" height="1100" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-64" value="API网关" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="380" width="90" height="1010" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-61" value="控件组件层" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-61" value="控件组件层" style="html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="500" y="338" width="498" height="650" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-2" value="物联网通用操控终端" style="html=1;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-2" value="物联网通用操控终端" style="html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2080" y="530" width="120" height="220" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-9" value="移动APP应用" style="html=1;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-9" value="移动APP应用" style="html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2080" y="230" width="120" height="290" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-18" value="&lt;span style=&quot;white-space: normal&quot;&gt;PC客户端对接服务&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -31,16 +31,16 @@
         <mxCell id="2d3plyyfJaohmwcUXWga-24" value="自定义事件服务" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="378" width="110" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-39" value="导入导出服务" style="html=1;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-39" value="导入导出服务" style="html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-350" y="230" width="110" height="550" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-56" value="页面后台服务" style="html=1;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-56" value="页面后台服务" style="html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-350" y="950" width="110" height="380" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-57" value="指令服务" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="670" width="110" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-60" value="定制页面层" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-60" value="定制页面层" style="html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1280" y="338" width="180" height="650" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-75" value="登陆认证服务" style="html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
@@ -58,13 +58,13 @@
         <mxCell id="2d3plyyfJaohmwcUXWga-95" value="联动数据请求服务" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="590" width="110" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-104" value="外部服务嵌入层" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-104" value="外部服务嵌入层" style="html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1520" y="338" width="180" height="650" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-74" value="&lt;span style=&quot;white-space: normal&quot;&gt;自定义工具登陆页&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1810" y="369" width="110" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-107" value="&lt;span style=&quot;text-align: left&quot;&gt;公共模块层&lt;/span&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-107" value="&lt;span style=&quot;text-align: left&quot;&gt;公共模块层&lt;/span&gt;" style="html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="180" height="650" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-81" value="&lt;span style=&quot;white-space: normal;&quot;&gt;首页模块&lt;/span&gt;" style="html=1;align=center;whiteSpace=wrap;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
         <mxCell id="2d3plyyfJaohmwcUXWga-51" value="导入模块" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="440" width="125" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-105" value="页面组件层" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-105" value="页面组件层" style="html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1040" y="339" width="180" height="650" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-17" value="&lt;span style=&quot;white-space: normal&quot;&gt;PC流程定制页面&lt;/span&gt;" style="html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
@@ -665,7 +665,7 @@
             <mxPoint x="-14" y="14" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-251" value="物联网通用操控终端" style="html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="2d3plyyfJaohmwcUXWga-251" value="物联网通用操控终端" style="html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-180" y="130" width="110" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-252" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;" edge="1" parent="1" source="2d3plyyfJaohmwcUXWga-251">
