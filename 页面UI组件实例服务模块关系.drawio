@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-07T09:46:54.034Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="SVrwoyAbYNKulLYGdaLM" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-07T09:49:04.186Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="BmVDvXt0nAf2gqJTCCdX" version="12.4.8" type="github">
   <diagram id="0pdj4ucrVx3CdcIXu_r7" name="Page-1">
-    <mxGraphModel dx="1345" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1898" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -751,6 +751,12 @@
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-281" value="&lt;span style=&quot;white-space: normal&quot;&gt;手机流程定制页面&lt;/span&gt;" style="html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1300" y="900" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-282" value="&lt;span style=&quot;white-space: normal&quot;&gt;PC流程壳&lt;/span&gt;" style="html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1545" y="380" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-283" value="&lt;span style=&quot;white-space: normal&quot;&gt;手机流程壳&lt;/span&gt;" style="html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1545" y="460" width="130" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
