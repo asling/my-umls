@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-07T06:08:35.181Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="z9xQanLE1NQAChocRC1E" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-07T06:08:48.099Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="uOI2V-OTK_Jb_UlNbvcq" version="12.4.8" type="github">
   <diagram id="0pdj4ucrVx3CdcIXu_r7" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,9 +48,6 @@
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-75" value="登陆认证服务" style="html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="50" y="520" width="110" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="2d3plyyfJaohmwcUXWga-130" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2d3plyyfJaohmwcUXWga-82" target="2d3plyyfJaohmwcUXWga-84">
-          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-82" value="&lt;span style=&quot;white-space: normal&quot;&gt;常用菜单接口服务&lt;/span&gt;" style="html=1;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="50" y="830" width="110" height="50" as="geometry"/>
