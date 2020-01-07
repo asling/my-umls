@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-07T07:13:39.513Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="jjsPmqRWntXyi_xjJ1Jj" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-07T07:28:18.695Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="eB1K22e7cvfL7sRQlF_X" version="12.4.8" type="github">
   <diagram id="0pdj4ucrVx3CdcIXu_r7" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,10 +35,10 @@
           <mxGeometry x="1690" y="40" width="110" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-39" value="导入导出服务" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="148" width="110" height="400" as="geometry"/>
+          <mxGeometry x="-350" y="380" width="110" height="400" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-56" value="页面后台服务" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="608" width="110" height="380" as="geometry"/>
+          <mxGeometry x="-350" y="950" width="110" height="380" as="geometry"/>
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-57" value="指令服务" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="670" width="110" height="50" as="geometry"/>
@@ -340,6 +340,41 @@
         </mxCell>
         <mxCell id="2d3plyyfJaohmwcUXWga-187" value="" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="2d3plyyfJaohmwcUXWga-186">
           <mxGeometry x="-1" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-188" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="160" y="1096" as="sourcePoint"/>
+            <mxPoint x="520" y="466" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="490" y="1096"/>
+              <mxPoint x="490" y="466"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-189" value="" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="2d3plyyfJaohmwcUXWga-188">
+          <mxGeometry x="-1" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-190" value="动态表格控件" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="780" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-191" value="&lt;span style=&quot;white-space: normal&quot;&gt;视频快速通道页面&lt;/span&gt;" style="html=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="460" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-192" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2d3plyyfJaohmwcUXWga-179" target="2d3plyyfJaohmwcUXWga-191">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="170" y="1305" as="sourcePoint"/>
+            <mxPoint x="540" y="743" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1250" y="1295"/>
+              <mxPoint x="1250" y="485"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-193" value="" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="2d3plyyfJaohmwcUXWga-192">
+          <mxGeometry x="-1" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2d3plyyfJaohmwcUXWga-194" value="高级查询模块" style="html=1;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="265" y="720" width="125" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
