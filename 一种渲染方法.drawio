@@ -1,1 +1,25 @@
-<mxfile host="www.draw.io" modified="2020-01-13T11:50:33.048Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" version="12.5.1" etag="9lAOWIKiM82mGWoHmRN_" type="github"><diagram id="zuB4X90jHhuFocVLRv9c">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-13T12:01:25.406Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="k2fhsqeK_zoJPPQdj28B" version="12.5.1" type="github">
+  <diagram id="zuB4X90jHhuFocVLRv9c" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="nAbrHheJg8OmNORjzkWy-3" value="静态页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="nAbrHheJg8OmNORjzkWy-22" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="nAbrHheJg8OmNORjzkWy-3" target="nAbrHheJg8OmNORjzkWy-12">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="120" as="sourcePoint"/>
+            <mxPoint x="130" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAbrHheJg8OmNORjzkWy-4" value="$scope AngularJS作用域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="220" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="nAbrHheJg8OmNORjzkWy-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="nAbrHheJg8OmNORjzkWy-4">
+          <mxGeometry x="45" y="110" width="10" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
